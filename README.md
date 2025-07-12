@@ -1,5 +1,5 @@
 # Sleep-Survey-IITH
-This repository contains a project implementation related to statistical analysis of sleep habits among students of IIT Hyderabad. The project was completed as part of a team assignment in the course . The repository includes a Python-based analysis of sleep data collected via a student survey, along with statistical testing and visualizations.
+This repository contains a project implementation related to statistical analysis of sleep habits among students of IIT Hyderabad. The project was completed as part of a team assignment in the Applied Statistics course . The repository includes a Python-based analysis of sleep data collected via a student survey, along with statistical testing and visualizations.
 ## Files in the Repository
 1. `Sleep-Survey-IITH.pdf` :
 - This is the final project report containing detailed analysis of sleep patterns among students.
