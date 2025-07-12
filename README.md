@@ -8,3 +8,7 @@ This repository contains a project implementation related to statistical analysi
 2. `Sleep-Survey-Presentation.pdf` :
 - A presentation summarizing the key findings and statistical insights from the survey.
 - Contains visual highlights, summary points, and conclusions delivered during the project presentation session.
+## Credits :
+- Kagita Meenakshi
+- Meka Bhavya Kumari
+- Reddy Roshni
